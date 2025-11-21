@@ -73,8 +73,8 @@ Our event management system has three main components:
 </ul>
 
 <br>
-<h1>👥 Our Team</h1>
-Our team consists of:
+<h1> I AM</h1>
+
 
 <ul>
   <li><strong>Harsh Kumar:</strong>
