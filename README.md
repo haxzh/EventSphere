@@ -31,7 +31,7 @@ Our event management system is built on a microservice architecture. This allows
 
 <h3>Download or clone the repository</h3>
 <p>You can download the zip file of the repository or use the following command in your terminal to clone the repository:</p>
-<pre><code class="language-bash">git clone https://github.com/d17012002/event-management</code></pre>
+<pre><code class="language-bash">git clone https://github.com/d17012002/EventSphere</code></pre>
 <h3>Navigate to the project's root directory</h3>
 <p>Once you have downloaded or cloned the repository, navigate to the project's root directory. The project consists of three folders: client, server, and developer.</p>
 <h3>Install dependencies</h3>
